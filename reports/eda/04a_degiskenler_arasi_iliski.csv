@@ -1,0 +1,16 @@
+﻿Değişken A,Değişken B,Cramér's V,En küçük hücre (n),Karıştırma adayı
+Ülke,Bakiye durumu,0.43565724114338916,0,Evet
+Ürün sayısı,Bakiye durumu,0.397108137112562,112,Evet
+Yaş grubu,Aktiflik,0.14295017449291467,17,Evet
+Yaş grubu,Ürün sayısı,0.11111810781401511,3,Evet
+Yaş grubu,Ülke,0.052692048649292125,34,Hayır
+Yaş grubu,Bakiye durumu,0.050135840243047,61,Hayır
+Ürün sayısı,Ülke,0.04727354935921176,73,Hayır
+Ürün sayısı,Cinsiyet,0.044078863978867795,139,Hayır
+Ürün sayısı,Aktiflik,0.04064829126357315,142,Hayır
+Yaş grubu,Cinsiyet,0.038797036564293376,75,Hayır
+Ülke,Cinsiyet,0.026302394601444515,1089,Hayır
+Ülke,Aktiflik,0.023031920903440386,1165,Hayır
+Aktiflik,Cinsiyet,0.022544324652307927,2259,Hayır
+Bakiye durumu,Cinsiyet,0.004512986735981596,1654,Hayır
+Aktiflik,Bakiye durumu,0.004115697382783302,1744,Hayır

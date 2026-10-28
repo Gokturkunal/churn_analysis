@@ -1,0 +1,4 @@
+﻿Model,Arama,En iyi CV AP,AP ss,%20 kapasitede yakalanan,Denemelerin AP aralığı,Seçilen ayar
+B · Lojistik regresyon,"Rastgele, 30 deneme",0.6428533098728684,0.02722709618088459,0.5764421543368912,0.513–0.643,"n_knots=5, C=0.689, class_weight=None"
+A · Random Forest,"Rastgele, 30 deneme",0.6442649773342424,0.02300299734677968,0.5841639062691695,0.518–0.644,"class_weight=None, max_depth=15, max_features=0.594, max_samples=0.848, min_samples_leaf=23, n_estimators=300"
+A · Gradient Boosting,"Optuna (TPE), 50 deneme",0.655402992691133,0.02133443682969823,0.5834719666298614,0.640–0.655,"learning_rate=0.0141, max_leaf_nodes=19, min_samples_leaf=13, l2_regularization=0.00121, max_depth=None, max_features=0.576, class_weight=None"

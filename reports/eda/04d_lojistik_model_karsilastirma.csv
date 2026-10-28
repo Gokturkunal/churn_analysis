@@ -1,0 +1,4 @@
+﻿Model,Parametre sayısı,Log-olabilirlik,AIC,Yakınsadı,Karşılaştırılan,LR istatistiği,df,p-değeri
+Model 0: ana etkiler,12,-3583.6117367344505,7191.223473468901,Evet,,,,
+Model 1: + 11 etkileşim adayı (4c),23,-3434.1642198572163,6914.3284397144325,Evet,Model 0,298.8950337544684,11.0,1.4972581790318286e-57
+Model 2: + bütün ikili etkileşimler,58,-3363.683967793131,6843.367935586262,Evet,Model 1,140.96050412817021,35.0,1.160825245244646e-14

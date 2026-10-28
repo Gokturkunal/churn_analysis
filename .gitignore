@@ -1,0 +1,45 @@
+# Python ortamı ve önbellekler
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Geçici kopyalar (CSV ve notebook kopyaları; proje dışı çalışma alanı)
+tmp/
+
+# İşletim sistemi ve Power BI geçici dosyaları
+Thumbs.db
+desktop.ini
+~$*
+*.pbix.bak
+
+# SQL Server veritabanı yedekleri (yerel taşıma için; CSV ve SQL betiklerinden yeniden üretilebilir)
+backups/
+*.bak
+
+# Yerel çalışma belgeleri ve süreç kayıtları (bilgisayarda tutulur, GitHub'a gönderilmez)
+AGENTS.md
+HANDOFF.md
+WORKFLOW.md
+PROJECT_BRIEF.md
+.vscode/
+docs/
+notebooks/archive/
+notebooks/README.md
+reports/*.md
+reports/*.json
+reports/validation/
+reports/evidence/
+reports/bivariate_eda/
+reports/figures/
+reports/sunum/
+powerbi/01_panel_plani.md
+powerbi/02_dogrulama_gunlugu.md
+powerbi/06_*.dax
+powerbi/07_*.dax
+powerbi/08_*.dax
+scripts/*
+!scripts/liste_grup_dokumu.py
+!scripts/ab_orneklem.py
+src/churn_analysis/data_quality.py

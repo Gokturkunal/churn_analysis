@@ -1,0 +1,1502 @@
+﻿CustomerId,Bölüm,Model skoru,Sıra,Kapasite dilimi,Segment kuralı skoru,Model sürümü
+15775318,Test,0.951502,1,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15655082,Test,0.951318,2,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15647898,Test,0.950882,3,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15663410,Test,0.950658,4,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15592583,Test,0.947978,5,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15655123,Test,0.94265,6,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15589017,Test,0.942171,7,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15610446,Test,0.942071,8,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15779176,Test,0.94033,9,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15569249,Test,0.939258,10,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15640846,Test,0.938476,11,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15791700,Test,0.937925,12,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15634551,Test,0.936241,13,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15703793,Test,0.92732,14,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15692750,Test,0.926649,15,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15576824,Test,0.919987,16,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15605279,Test,0.91704,17,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15711446,Test,0.91499,18,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15642391,Test,0.91164,19,İlk %10,0.773006,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15668889,Test,0.910496,20,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15757306,Test,0.906708,21,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15695339,Test,0.905567,22,İlk %10,0.773006,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15749103,Test,0.89731,23,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15757952,Test,0.8941,24,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15759250,Test,0.893925,25,İlk %10,0.773006,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15653937,Test,0.893858,26,İlk %10,0.773006,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15656822,Test,0.893391,27,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15811690,Test,0.893349,28,İlk %10,0.773006,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15766044,Test,0.88925,29,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15747168,Test,0.888172,30,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15811762,Test,0.88053,31,İlk %10,0.773006,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15748660,Test,0.875454,32,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15797751,Test,0.875092,33,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15698732,Test,0.869938,34,İlk %10,0.773006,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15591698,Test,0.863196,35,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15607537,Test,0.862918,36,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15735878,Test,0.860584,37,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15734610,Test,0.859055,38,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15646859,Test,0.858597,39,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15586970,Test,0.858211,40,İlk %10,0.773006,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15730793,Test,0.857344,41,İlk %10,0.773006,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15632816,Test,0.854417,42,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15654733,Test,0.854104,43,İlk %10,0.773006,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15687634,Test,0.852205,44,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15706163,Test,0.85216,45,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15775761,Test,0.850261,46,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15605916,Test,0.84699,47,İlk %10,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15772329,Test,0.846016,48,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15595842,Test,0.845612,49,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15692142,Test,0.845591,50,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15723488,Test,0.844918,51,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15591169,Test,0.842267,52,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15662098,Test,0.841688,53,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15615430,Test,0.835698,54,İlk %10,0.773006,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15707637,Test,0.833385,55,İlk %10,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15680611,Test,0.832215,56,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15757408,Test,0.831847,57,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15646037,Test,0.831551,58,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15732299,Test,0.831132,59,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15715142,Test,0.827399,60,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15622478,Test,0.825533,61,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15602010,Test,0.824186,62,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15738605,Test,0.82386,63,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15724321,Test,0.823821,64,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15725794,Test,0.822804,65,İlk %10,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15655410,Test,0.819061,66,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15704284,Test,0.818876,67,İlk %10,0.773006,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15760085,Test,0.816925,68,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15758606,Test,0.813561,69,İlk %10,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15813850,Test,0.813253,70,İlk %10,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15625824,Test,0.81169,71,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15704583,Test,0.811287,72,İlk %10,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15769703,Test,0.81092,73,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15574331,Test,0.809154,74,İlk %10,0.406593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15724154,Test,0.809144,75,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15743617,Test,0.806191,76,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15791102,Test,0.805403,77,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15699325,Test,0.80291,78,İlk %10,0.406593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15739592,Test,0.802075,79,İlk %10,0.773006,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15612207,Test,0.801978,80,İlk %10,0.773006,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15713483,Test,0.799741,81,İlk %10,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15768451,Test,0.799698,82,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15591986,Test,0.799418,83,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15595592,Test,0.799387,84,İlk %10,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15678497,Test,0.797926,85,İlk %10,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15651052,Test,0.797846,86,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15671137,Test,0.796007,87,İlk %10,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15672432,Test,0.7939,88,İlk %10,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15681075,Test,0.790668,89,İlk %10,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15640507,Test,0.789678,90,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15790455,Test,0.789239,91,İlk %10,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15808526,Test,0.789226,92,İlk %10,0.773006,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15815490,Test,0.786928,93,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15581626,Test,0.785413,94,İlk %10,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15624180,Test,0.785051,95,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15690829,Test,0.7842,96,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15701537,Test,0.783305,97,İlk %10,0.406593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15624519,Test,0.782009,98,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15721740,Test,0.776094,99,İlk %10,0.773006,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15583392,Test,0.773389,100,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15700801,Test,0.773113,101,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15612525,Test,0.772602,102,İlk %10,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15585362,Test,0.771598,103,İlk %10,0.406593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15806049,Test,0.770764,104,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15650538,Test,0.766258,105,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15751561,Test,0.762388,106,İlk %10,0.406593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15774630,Test,0.76056,107,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15597968,Test,0.75986,108,İlk %10,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15727490,Test,0.757539,109,İlk %10,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15717010,Test,0.756495,110,İlk %10,0.406593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15739858,Test,0.755751,111,İlk %10,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15813113,Test,0.748789,112,İlk %10,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15664907,Test,0.747807,113,İlk %10,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15749583,Test,0.747645,114,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15776454,Test,0.74534,115,İlk %10,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15809736,Test,0.744912,116,İlk %10,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15628600,Test,0.74343,117,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15568032,Test,0.743253,118,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15653347,Test,0.742364,119,İlk %10,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15568748,Test,0.735726,120,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15680449,Test,0.732786,121,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15785705,Test,0.730733,122,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15693864,Test,0.730627,123,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15812241,Test,0.727846,124,İlk %10,0.773006,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15743293,Test,0.720711,125,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15600700,Test,0.718906,126,İlk %10,0.406593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15732113,Test,0.717467,127,İlk %10,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15764170,Test,0.717286,128,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15805260,Test,0.714824,129,İlk %10,0.773006,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15593795,Test,0.712402,130,İlk %10,0.773006,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15744240,Test,0.711098,131,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15629677,Test,0.70784,132,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15677020,Test,0.704136,133,İlk %10,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15800434,Test,0.700057,134,İlk %10,0.773006,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15654456,Test,0.698447,135,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15784209,Test,0.698293,136,İlk %10,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15637891,Test,0.691815,137,İlk %10,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15755242,Test,0.690986,138,İlk %10,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15611331,Test,0.69035,139,İlk %10,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15737025,Test,0.68857,140,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15649183,Test,0.685302,141,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15796957,Test,0.678826,142,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15734008,Test,0.674877,143,İlk %10,0.773006,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15810218,Test,0.671347,144,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15745266,Test,0.670317,145,İlk %10,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15736730,Test,0.668781,146,İlk %10,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15581620,Test,0.666239,147,İlk %10,0.863309,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15606076,Test,0.66079,148,İlk %10,0.406593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15814690,Test,0.658267,149,İlk %10,0.406593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15665956,Test,0.650369,150,İlk %10,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15715622,Test,0.645683,151,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15754577,Test,0.645502,152,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15638610,Test,0.628824,153,%10–20,0.406593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15661507,Test,0.628737,154,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15610643,Test,0.625939,155,%10–20,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15613623,Test,0.61489,156,%10–20,0.406593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15613189,Test,0.593132,157,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15747534,Test,0.590522,158,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15583552,Test,0.589444,159,%10–20,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15584364,Test,0.588604,160,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15635964,Test,0.588534,161,%10–20,0.406593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15630241,Test,0.585487,162,%10–20,0.406593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15704987,Test,0.585151,163,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15630466,Test,0.580555,164,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15675854,Test,0.580064,165,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15738148,Test,0.575773,166,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15651983,Test,0.575544,167,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15605059,Test,0.568403,168,%10–20,0.406593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15814092,Test,0.565681,169,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15616666,Test,0.563377,170,%10–20,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15664849,Test,0.56224,171,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15804721,Test,0.561728,172,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15732020,Test,0.555008,173,%10–20,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15804853,Test,0.552828,174,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15583353,Test,0.549695,175,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15801658,Test,0.545998,176,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15650424,Test,0.543156,177,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15618203,Test,0.540963,178,%10–20,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15635502,Test,0.540374,179,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15740442,Test,0.535303,180,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15596339,Test,0.534968,181,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15573520,Test,0.529649,182,%10–20,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15612050,Test,0.523893,183,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15574213,Test,0.519866,184,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15752857,Test,0.517812,185,%10–20,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15761374,Test,0.510562,186,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15700460,Test,0.504638,187,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15705953,Test,0.501585,188,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15616152,Test,0.500489,189,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15571193,Test,0.49866,190,%10–20,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15598086,Test,0.496492,191,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15760521,Test,0.495023,192,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15742116,Test,0.494832,193,%10–20,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15761497,Test,0.49273,194,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15723299,Test,0.491907,195,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15711251,Test,0.489742,196,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15684318,Test,0.485678,197,%10–20,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15680430,Test,0.483769,198,%10–20,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15566211,Test,0.482418,199,%10–20,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15718057,Test,0.481775,200,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15755196,Test,0.481021,201,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15815040,Test,0.47977,202,%10–20,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15641604,Test,0.477815,203,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15735636,Test,0.475897,204,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15670416,Test,0.471529,205,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15638494,Test,0.46907,206,%10–20,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15706365,Test,0.468647,207,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15743007,Test,0.465878,208,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15672374,Test,0.465057,209,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15684171,Test,0.463346,210,%10–20,0.406593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15730673,Test,0.462961,211,%10–20,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15690231,Test,0.462174,212,%10–20,0.173554,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15689201,Test,0.459085,213,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15620756,Test,0.457688,214,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15763415,Test,0.455594,215,%10–20,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15619514,Test,0.453308,216,%10–20,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15651581,Test,0.452722,217,%10–20,0.406593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15758116,Test,0.452373,218,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15801218,Test,0.451161,219,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15719856,Test,0.449564,220,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15578866,Test,0.435933,221,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15747323,Test,0.434511,222,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15733777,Test,0.433553,223,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15806256,Test,0.428127,224,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15666856,Test,0.426792,225,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15596647,Test,0.424321,226,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15791191,Test,0.421826,227,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15569590,Test,0.421568,228,%10–20,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15724848,Test,0.421028,229,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15574369,Test,0.420133,230,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15577423,Test,0.419398,231,%10–20,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15640418,Test,0.416413,232,%10–20,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15596175,Test,0.415713,233,%10–20,0.406593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15711618,Test,0.414615,234,%10–20,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15797900,Test,0.412867,235,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15693267,Test,0.412571,236,%10–20,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15613048,Test,0.407035,237,%10–20,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15778481,Test,0.405299,238,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15571778,Test,0.400747,239,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15692664,Test,0.399195,240,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15643770,Test,0.398887,241,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15792388,Test,0.397414,242,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15591985,Test,0.395937,243,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15581197,Test,0.393104,244,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15617320,Test,0.392478,245,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15776939,Test,0.391781,246,%10–20,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15668775,Test,0.390782,247,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15726494,Test,0.385462,248,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15677307,Test,0.38433,249,%10–20,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15611759,Test,0.383838,250,%10–20,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15718852,Test,0.383569,251,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15659105,Test,0.38259,252,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15657107,Test,0.379626,253,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15609510,Test,0.379565,254,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15757310,Test,0.377479,255,%10–20,0.406593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15594408,Test,0.376906,256,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15600832,Test,0.376391,257,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15808851,Test,0.37542,258,%10–20,0.082707,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15796993,Test,0.373401,259,%10–20,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15679818,Test,0.372579,260,%10–20,0.406593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15651001,Test,0.371041,261,%10–20,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15722611,Test,0.364567,262,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15762716,Test,0.364413,263,%10–20,0.406593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15577514,Test,0.363616,264,%10–20,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15801336,Test,0.361115,265,%10–20,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15800229,Test,0.35764,266,%10–20,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15612087,Test,0.351992,267,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15776494,Test,0.347897,268,%10–20,0.406593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15658675,Test,0.347848,269,%10–20,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15635078,Test,0.346271,270,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15707011,Test,0.34546,271,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15669326,Test,0.344398,272,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15784923,Test,0.343921,273,%10–20,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15651713,Test,0.342676,274,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15704378,Test,0.335939,275,%10–20,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15749019,Test,0.335871,276,%10–20,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15657540,Test,0.331685,277,%10–20,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15658169,Test,0.328341,278,%10–20,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15748532,Test,0.327717,279,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15755638,Test,0.324413,280,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15583840,Test,0.318556,281,%10–20,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15576706,Test,0.317264,282,%10–20,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15661290,Test,0.31594,283,%10–20,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15572547,Test,0.313694,284,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15661409,Test,0.313629,285,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15797381,Test,0.313413,286,%10–20,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15774192,Test,0.312672,287,%10–20,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15656865,Test,0.308738,288,%10–20,0.406593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15661903,Test,0.306831,289,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15733973,Test,0.30482,290,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15635125,Test,0.304304,291,%10–20,0.173554,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15789557,Test,0.302211,292,%10–20,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15792722,Test,0.301954,293,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15786153,Test,0.300107,294,%10–20,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15807595,Test,0.29949,295,%10–20,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15740237,Test,0.298252,296,%10–20,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15771477,Test,0.297294,297,%10–20,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15647385,Test,0.297068,298,%10–20,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15798885,Test,0.292717,299,%10–20,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15786617,Test,0.291502,300,%10–20,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15788367,Test,0.29089,301,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15569247,Test,0.290191,302,%20–30,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15712930,Test,0.289233,303,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15802869,Test,0.289146,304,%20–30,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15774696,Test,0.288772,305,%20–30,0.082707,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15594456,Test,0.28824,306,%20–30,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15625501,Test,0.286996,307,%20–30,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15723894,Test,0.282215,308,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15723263,Test,0.281107,309,%20–30,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15761018,Test,0.280814,310,%20–30,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15568595,Test,0.280029,311,%20–30,0.406593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15736778,Test,0.27919,312,%20–30,0.173554,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15655574,Test,0.278479,313,%20–30,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15582116,Test,0.2782,314,%20–30,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15698791,Test,0.277688,315,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15614847,Test,0.277517,316,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15673908,Test,0.277472,317,%20–30,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15739271,Test,0.27697,318,%20–30,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15761453,Test,0.276685,319,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15807045,Test,0.275975,320,%20–30,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15630910,Test,0.275672,321,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15750808,Test,0.273668,322,%20–30,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15572051,Test,0.272941,323,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15755223,Test,0.272467,324,%20–30,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15808760,Test,0.270983,325,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15673238,Test,0.270574,326,%20–30,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15611371,Test,0.270176,327,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15631838,Test,0.270094,328,%20–30,0.173554,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15804131,Test,0.270012,329,%20–30,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15684211,Test,0.268673,330,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15784736,Test,0.268134,331,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15611058,Test,0.268004,332,%20–30,0.173554,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15795275,Test,0.265884,333,%20–30,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15576216,Test,0.26367,334,%20–30,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15710366,Test,0.262532,335,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15629551,Test,0.261622,336,%20–30,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15739850,Test,0.261427,337,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15691808,Test,0.260361,338,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15616550,Test,0.259392,339,%20–30,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15630419,Test,0.259163,340,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15589715,Test,0.258831,341,%20–30,0.406593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15647965,Test,0.258749,342,%20–30,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15713769,Test,0.258632,343,%20–30,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15712199,Test,0.258232,344,%20–30,0.173554,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15712319,Test,0.258161,345,%20–30,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15737778,Test,0.257553,346,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15648794,Test,0.254931,347,%20–30,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15599078,Test,0.254768,348,%20–30,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15706269,Test,0.254363,349,%20–30,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15595153,Test,0.253672,350,%20–30,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15569098,Test,0.253539,351,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15799811,Test,0.252954,352,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15775203,Test,0.251253,353,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15579781,Test,0.248841,354,%20–30,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15745533,Test,0.245412,355,%20–30,0.173554,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15625035,Test,0.244487,356,%20–30,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15714241,Test,0.243277,357,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15812272,Test,0.242223,358,%20–30,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15623502,Test,0.241168,359,%20–30,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15665222,Test,0.240682,360,%20–30,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15641110,Test,0.24038,361,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15736327,Test,0.240353,362,%20–30,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15812920,Test,0.239959,363,%20–30,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15692819,Test,0.239434,364,%20–30,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15757895,Test,0.238929,365,%20–30,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15734461,Test,0.238672,366,%20–30,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15778155,Test,0.238497,367,%20–30,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15766166,Test,0.236569,368,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15634936,Test,0.234433,369,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15610930,Test,0.233644,370,%20–30,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15599126,Test,0.23282,371,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15566891,Test,0.232393,372,%20–30,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15776223,Test,0.232068,373,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15640268,Test,0.231962,374,%20–30,0.082707,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15660608,Test,0.231845,375,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15720284,Test,0.23144,376,%20–30,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15568742,Test,0.231273,377,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15621083,Test,0.231088,378,%20–30,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15802617,Test,0.230385,379,%20–30,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15694039,Test,0.230097,380,%20–30,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15684951,Test,0.228906,381,%20–30,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15592707,Test,0.227805,382,%20–30,0.173554,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15753969,Test,0.227428,383,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15806210,Test,0.227061,384,%20–30,0.173554,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15790846,Test,0.225722,385,%20–30,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15804709,Test,0.225415,386,%20–30,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15628886,Test,0.224582,387,%20–30,0.549488,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15774402,Test,0.223386,388,%20–30,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15698572,Test,0.223245,389,%20–30,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15774250,Test,0.222116,390,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15798888,Test,0.222037,391,%20–30,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15759244,Test,0.221885,392,%20–30,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15626795,Test,0.221176,393,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15652981,Test,0.220096,394,%20–30,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15585855,Test,0.218791,395,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15769980,Test,0.218134,396,%20–30,0.56686,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15679760,Test,0.21685,397,%20–30,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15721469,Test,0.216271,398,%20–30,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15590177,Test,0.216255,399,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15622750,Test,0.216104,400,%20–30,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15776850,Test,0.214918,401,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15792328,Test,0.214592,402,%20–30,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15753888,Test,0.214172,403,%20–30,0.406593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15763414,Test,0.213245,404,%20–30,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15811290,Test,0.212835,405,%20–30,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15691792,Test,0.211902,406,%20–30,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15680346,Test,0.211426,407,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15703763,Test,0.210691,408,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15642162,Test,0.209318,409,%20–30,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15674433,Test,0.20829,410,%20–30,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15592104,Test,0.207443,411,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15687385,Test,0.207068,412,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15802207,Test,0.206402,413,%20–30,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15621075,Test,0.203563,414,%20–30,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15732437,Test,0.202638,415,%20–30,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15588350,Test,0.202418,416,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15643158,Test,0.201658,417,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15710424,Test,0.201112,418,%20–30,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15705403,Test,0.199976,419,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15700749,Test,0.199215,420,%20–30,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15680278,Test,0.198973,421,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15609928,Test,0.197344,422,%20–30,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15596088,Test,0.197063,423,%20–30,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15654772,Test,0.196797,424,%20–30,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15594391,Test,0.196774,425,%20–30,0.406593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15775756,Test,0.196652,426,%20–30,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15790379,Test,0.196517,427,%20–30,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15589660,Test,0.196154,428,%20–30,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15668818,Test,0.196076,429,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15804017,Test,0.195883,430,%20–30,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15623566,Test,0.195561,431,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15793425,Test,0.194147,432,%20–30,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15566111,Test,0.194023,433,%20–30,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15667458,Test,0.193441,434,%20–30,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15572022,Test,0.192386,435,%20–30,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15800736,Test,0.189131,436,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15773276,Test,0.189131,437,%20–30,0.406593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15686164,Test,0.188451,438,%20–30,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15640825,Test,0.188101,439,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15711889,Test,0.186823,440,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15586870,Test,0.185792,441,%20–30,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15575409,Test,0.185376,442,%20–30,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15658240,Test,0.185325,443,%20–30,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15780650,Test,0.185116,444,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15644400,Test,0.184435,445,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15684995,Test,0.181673,446,%20–30,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15679622,Test,0.181521,447,%20–30,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15611318,Test,0.181203,448,%20–30,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15766908,Test,0.180695,449,%20–30,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15748797,Test,0.179963,450,%20–30,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15602812,Test,0.179787,451,Diğer,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15681126,Test,0.179538,452,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15815626,Test,0.179537,453,Diğer,0.173554,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15714981,Test,0.179183,454,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15805690,Test,0.178824,455,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15746564,Test,0.178457,456,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15650086,Test,0.178344,457,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15673984,Test,0.177846,458,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15687270,Test,0.177699,459,Diğer,0.173554,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15765487,Test,0.176232,460,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15809143,Test,0.175947,461,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15647203,Test,0.175818,462,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15638989,Test,0.175503,463,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15742009,Test,0.175303,464,Diğer,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15813917,Test,0.175158,465,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15776545,Test,0.174832,466,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15724251,Test,0.174518,467,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15809347,Test,0.174249,468,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15636767,Test,0.174137,469,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15590349,Test,0.172896,470,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15798341,Test,0.17221,471,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15622985,Test,0.171933,472,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15747821,Test,0.17076,473,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15814816,Test,0.170255,474,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15597896,Test,0.170163,475,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15696054,Test,0.169907,476,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15619699,Test,0.169724,477,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15768682,Test,0.169331,478,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15615029,Test,0.168718,479,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15601873,Test,0.16839,480,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15773447,Test,0.167707,481,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15813034,Test,0.16741,482,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15611029,Test,0.166289,483,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15653251,Test,0.166266,484,Diğer,0.082707,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15579566,Test,0.165923,485,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15669805,Test,0.165097,486,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15627971,Test,0.164583,487,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15771059,Test,0.164386,488,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15628059,Test,0.163629,489,Diğer,0.173554,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15647572,Test,0.163117,490,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15791326,Test,0.162471,491,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15684319,Test,0.162223,492,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15630913,Test,0.162154,493,Diğer,0.406593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15690796,Test,0.161971,494,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15707974,Test,0.161925,495,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15684440,Test,0.161528,496,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15611848,Test,0.16147,497,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15700424,Test,0.161146,498,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15623972,Test,0.160651,499,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15781619,Test,0.15802,500,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15746594,Test,0.15718,501,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15652955,Test,0.156977,502,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15792107,Test,0.156743,503,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15593331,Test,0.156674,504,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15585198,Test,0.156229,505,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15762238,Test,0.155539,506,Diğer,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15574795,Test,0.155229,507,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15799479,Test,0.154632,508,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15735330,Test,0.154596,509,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15769051,Test,0.154592,510,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15735400,Test,0.153935,511,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15641250,Test,0.153245,512,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15737888,Test,0.153042,513,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15713578,Test,0.152816,514,Diğer,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15621815,Test,0.152281,515,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15772381,Test,0.151577,516,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15736287,Test,0.151419,517,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15731478,Test,0.151366,518,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15769412,Test,0.15123,519,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15671334,Test,0.149671,520,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15628863,Test,0.14966,521,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15747960,Test,0.149589,522,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15782089,Test,0.149185,523,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15640161,Test,0.14843,524,Diğer,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15589969,Test,0.147877,525,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15643359,Test,0.147023,526,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15654211,Test,0.146546,527,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15695465,Test,0.145979,528,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15730810,Test,0.144228,529,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15761132,Test,0.144141,530,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15720305,Test,0.144138,531,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15578251,Test,0.143487,532,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15653110,Test,0.143318,533,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15736271,Test,0.143148,534,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15674343,Test,0.143143,535,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15701809,Test,0.142378,536,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15624695,Test,0.141896,537,Diğer,0.082707,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15696859,Test,0.141425,538,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15682528,Test,0.140749,539,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15750049,Test,0.140668,540,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15685947,Test,0.140201,541,Diğer,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15609987,Test,0.139825,542,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15668309,Test,0.138829,543,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15771087,Test,0.1387,544,Diğer,0.082707,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15713853,Test,0.138606,545,Diğer,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15585892,Test,0.138366,546,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15761168,Test,0.138333,547,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15734987,Test,0.137977,548,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15596800,Test,0.137672,549,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15770548,Test,0.136029,550,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15570134,Test,0.135685,551,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15715951,Test,0.134501,552,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15751771,Test,0.134373,553,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15757632,Test,0.134281,554,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15718765,Test,0.133562,555,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15770255,Test,0.133365,556,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15765857,Test,0.13269,557,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15792916,Test,0.132295,558,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15772216,Test,0.13106,559,Diğer,0.406593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15690731,Test,0.130535,560,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15768124,Test,0.130282,561,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15766047,Test,0.130266,562,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15608956,Test,0.130038,563,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15567897,Test,0.129443,564,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15790204,Test,0.129288,565,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15607988,Test,0.128834,566,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15645593,Test,0.127234,567,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15659366,Test,0.12718,568,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15685226,Test,0.126963,569,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15708236,Test,0.126684,570,Diğer,0.082707,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15596984,Test,0.12613,571,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15642248,Test,0.125665,572,Diğer,0.406593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15686913,Test,0.12469,573,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15717290,Test,0.12467,574,Diğer,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15612350,Test,0.124499,575,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15731890,Test,0.124456,576,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15583049,Test,0.12411,577,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15688059,Test,0.123777,578,Diğer,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15753161,Test,0.123463,579,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15668235,Test,0.123344,580,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15636736,Test,0.123172,581,Diğer,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15601030,Test,0.123041,582,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15758831,Test,0.122379,583,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15722845,Test,0.122264,584,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15654296,Test,0.122253,585,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15578761,Test,0.122126,586,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15627801,Test,0.121205,587,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15690332,Test,0.120939,588,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15661526,Test,0.120928,589,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15764335,Test,0.120106,590,Diğer,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15727361,Test,0.119994,591,Diğer,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15673747,Test,0.119815,592,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15738889,Test,0.119174,593,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15704657,Test,0.119049,594,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15667742,Test,0.118154,595,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15583394,Test,0.117567,596,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15677052,Test,0.117326,597,Diğer,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15654489,Test,0.117291,598,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15793135,Test,0.117212,599,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15663885,Test,0.116918,600,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15619436,Test,0.116884,601,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15575399,Test,0.1155,602,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15752809,Test,0.115189,603,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15643378,Test,0.115075,604,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15611644,Test,0.114805,605,Diğer,0.082707,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15666270,Test,0.11476,606,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15677387,Test,0.11431,607,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15682533,Test,0.114166,608,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15781702,Test,0.113342,609,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15803682,Test,0.11258,610,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15808971,Test,0.112527,611,Diğer,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15794874,Test,0.112231,612,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15697318,Test,0.111968,613,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15650670,Test,0.111705,614,Diğer,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15781307,Test,0.111625,615,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15769312,Test,0.111439,616,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15616088,Test,0.111376,617,Diğer,0.082707,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15599301,Test,0.111075,618,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15622470,Test,0.110938,619,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15594041,Test,0.110661,620,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15644882,Test,0.110523,621,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15795936,Test,0.110506,622,Diğer,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15742820,Test,0.110419,623,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15711218,Test,0.109538,624,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15771509,Test,0.108962,625,Diğer,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15571973,Test,0.108896,626,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15763895,Test,0.108614,627,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15659501,Test,0.108463,628,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15629323,Test,0.108094,629,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15724145,Test,0.108047,630,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15604314,Test,0.107997,631,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15716781,Test,0.107996,632,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15574169,Test,0.107229,633,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15705739,Test,0.107005,634,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15692207,Test,0.106917,635,Diğer,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15719793,Test,0.106417,636,Diğer,0.173554,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15794868,Test,0.106416,637,Diğer,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15636700,Test,0.105947,638,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15682070,Test,0.10568,639,Diğer,0.173554,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15765402,Test,0.105468,640,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15592379,Test,0.105457,641,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15680405,Test,0.105377,642,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15638963,Test,0.10534,643,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15623730,Test,0.104911,644,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15641298,Test,0.104694,645,Diğer,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15748552,Test,0.104685,646,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15756118,Test,0.104504,647,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15714080,Test,0.104415,648,Diğer,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15729362,Test,0.103883,649,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15815552,Test,0.10376,650,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15664083,Test,0.103634,651,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15662232,Test,0.103396,652,Diğer,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15757829,Test,0.10322,653,Diğer,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15768201,Test,0.103082,654,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15607176,Test,0.102893,655,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15644753,Test,0.102645,656,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15725036,Test,0.10264,657,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15730038,Test,0.102639,658,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15757385,Test,0.102506,659,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15638231,Test,0.102464,660,Diğer,0.173554,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15721835,Test,0.102443,661,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15761886,Test,0.102433,662,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15618446,Test,0.102237,663,Diğer,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15759298,Test,0.10217,664,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15797710,Test,0.102085,665,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15702566,Test,0.102016,666,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15664227,Test,0.101807,667,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15578809,Test,0.101378,668,Diğer,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15704597,Test,0.101364,669,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15604146,Test,0.101276,670,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15576263,Test,0.101235,671,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15751392,Test,0.100834,672,Diğer,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15681196,Test,0.100777,673,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15632210,Test,0.100621,674,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15810167,Test,0.100326,675,Diğer,0.082707,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15653715,Test,0.100279,676,Diğer,0.173554,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15729412,Test,0.099998,677,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15638871,Test,0.099656,678,Diğer,0.082707,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15761692,Test,0.099557,679,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15801256,Test,0.099549,680,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15696733,Test,0.099512,681,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15785290,Test,0.098961,682,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15610147,Test,0.098631,683,Diğer,0.173554,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15693233,Test,0.098561,684,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15731330,Test,0.098472,685,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15585961,Test,0.098359,686,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15798385,Test,0.09818,687,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15657163,Test,0.097856,688,Diğer,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15787597,Test,0.097682,689,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15727556,Test,0.097668,690,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15788775,Test,0.097663,691,Diğer,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15791006,Test,0.097328,692,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15812720,Test,0.097298,693,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15803415,Test,0.096975,694,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15656322,Test,0.096781,695,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15568963,Test,0.096579,696,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15732943,Test,0.096284,697,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15795079,Test,0.096276,698,Diğer,0.173554,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15699797,Test,0.096168,699,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15691950,Test,0.095746,700,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15579583,Test,0.095669,701,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15571284,Test,0.095555,702,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15600357,Test,0.095544,703,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15587394,Test,0.095193,704,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15672598,Test,0.095113,705,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15703413,Test,0.095064,706,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15643696,Test,0.094368,707,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15672912,Test,0.094208,708,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15812356,Test,0.094159,709,Diğer,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15730339,Test,0.094108,710,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15700772,Test,0.093589,711,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15624013,Test,0.09354,712,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15714680,Test,0.093517,713,Diğer,0.082707,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15659305,Test,0.093455,714,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15705515,Test,0.093009,715,Diğer,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15800366,Test,0.093009,716,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15744279,Test,0.092851,717,Diğer,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15738166,Test,0.092465,718,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15775750,Test,0.09242,719,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15784594,Test,0.092137,720,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15659092,Test,0.092114,721,Diğer,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15718280,Test,0.091972,722,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15752953,Test,0.091783,723,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15594864,Test,0.091715,724,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15576044,Test,0.091431,725,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15609083,Test,0.091413,726,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15737814,Test,0.091335,727,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15571261,Test,0.091212,728,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15575428,Test,0.09111,729,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15593496,Test,0.090993,730,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15807433,Test,0.090946,731,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15769915,Test,0.090882,732,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15642937,Test,0.090786,733,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15753874,Test,0.090739,734,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15614491,Test,0.090523,735,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15741865,Test,0.090452,736,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15674000,Test,0.090342,737,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15665521,Test,0.090049,738,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15655298,Test,0.089866,739,Diğer,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15701042,Test,0.089733,740,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15795895,Test,0.089667,741,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15621195,Test,0.089339,742,Diğer,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15786392,Test,0.089292,743,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15638806,Test,0.089111,744,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15784286,Test,0.089019,745,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15791501,Test,0.089005,746,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15771977,Test,0.08879,747,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15722813,Test,0.088789,748,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15810010,Test,0.088703,749,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15786993,Test,0.088696,750,Diğer,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15726313,Test,0.088629,751,Diğer,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15756333,Test,0.088626,752,Diğer,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15656707,Test,0.088613,753,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15737169,Test,0.088494,754,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15576126,Test,0.088323,755,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15628170,Test,0.087967,756,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15579892,Test,0.087953,757,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15638149,Test,0.087915,758,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15623062,Test,0.087664,759,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15592089,Test,0.087618,760,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15603481,Test,0.087593,761,Diğer,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15809999,Test,0.087534,762,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15724876,Test,0.087485,763,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15723064,Test,0.087053,764,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15628992,Test,0.087026,765,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15716347,Test,0.086996,766,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15640266,Test,0.086903,767,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15609637,Test,0.086637,768,Diğer,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15688007,Test,0.086469,769,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15656937,Test,0.086344,770,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15758856,Test,0.086334,771,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15569438,Test,0.086318,772,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15624424,Test,0.086261,773,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15678058,Test,0.086012,774,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15602844,Test,0.085804,775,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15624391,Test,0.085632,776,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15681887,Test,0.085528,777,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15766887,Test,0.085488,778,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15596021,Test,0.085357,779,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15616709,Test,0.085322,780,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15618695,Test,0.084901,781,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15626507,Test,0.084656,782,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15735849,Test,0.084611,783,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15756894,Test,0.084492,784,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15658693,Test,0.084488,785,Diğer,0.173554,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15709861,Test,0.08431,786,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15623525,Test,0.084223,787,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15598493,Test,0.084185,788,Diğer,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15730447,Test,0.084106,789,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15688689,Test,0.084091,790,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15637178,Test,0.08408,791,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15747649,Test,0.083839,792,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15653404,Test,0.083837,793,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15614215,Test,0.083786,794,Diğer,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15641860,Test,0.083764,795,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15801152,Test,0.083745,796,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15758702,Test,0.083708,797,Diğer,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15804962,Test,0.083592,798,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15762392,Test,0.083516,799,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15800412,Test,0.083473,800,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15578878,Test,0.083442,801,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15776051,Test,0.083398,802,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15583462,Test,0.083368,803,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15743673,Test,0.083319,804,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15728043,Test,0.083251,805,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15682355,Test,0.08306,806,Diğer,0.195021,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15778005,Test,0.083022,807,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15643967,Test,0.083006,808,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15763579,Test,0.082909,809,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15662091,Test,0.082797,810,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15658972,Test,0.082708,811,Diğer,0.328235,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15632263,Test,0.082612,812,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15669175,Test,0.082605,813,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15582180,Test,0.082572,814,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15804211,Test,0.082557,815,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15685357,Test,0.08253,816,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15625916,Test,0.082492,817,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15757865,Test,0.082344,818,Diğer,0.173554,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15627848,Test,0.082295,819,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15714689,Test,0.082269,820,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15660263,Test,0.082237,821,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15697183,Test,0.0822,822,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15619529,Test,0.082128,823,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15694628,Test,0.082112,824,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15620836,Test,0.082097,825,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15583067,Test,0.082058,826,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15645621,Test,0.082002,827,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15733476,Test,0.081995,828,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15614049,Test,0.081978,829,Diğer,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15631359,Test,0.081897,830,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15690164,Test,0.08178,831,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15734999,Test,0.081329,832,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15586300,Test,0.081306,833,Diğer,0.173554,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15621974,Test,0.081299,834,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15614420,Test,0.081251,835,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15785352,Test,0.081245,836,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15662403,Test,0.081223,837,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15766869,Test,0.081215,838,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15729956,Test,0.081125,839,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15601550,Test,0.081016,840,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15690733,Test,0.080991,841,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15716357,Test,0.080909,842,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15743193,Test,0.08084,843,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15759566,Test,0.080566,844,Diğer,0.082707,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15673619,Test,0.080491,845,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15751710,Test,0.080473,846,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15678572,Test,0.080444,847,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15723989,Test,0.080383,848,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15789865,Test,0.080355,849,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15748854,Test,0.080237,850,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15801395,Test,0.080218,851,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15633546,Test,0.080146,852,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15691952,Test,0.079813,853,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15648898,Test,0.079777,854,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15622518,Test,0.079764,855,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15724099,Test,0.079759,856,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15629575,Test,0.079632,857,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15605804,Test,0.079516,858,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15763874,Test,0.079411,859,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15700696,Test,0.079394,860,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15770974,Test,0.079373,861,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15584091,Test,0.079284,862,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15758136,Test,0.079218,863,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15737385,Test,0.07917,864,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15644295,Test,0.079164,865,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15768104,Test,0.0791,866,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15647474,Test,0.079057,867,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15609643,Test,0.078987,868,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15733032,Test,0.078944,869,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15780038,Test,0.078755,870,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15717225,Test,0.078722,871,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15813718,Test,0.078326,872,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15691840,Test,0.078218,873,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15608845,Test,0.077821,874,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15748625,Test,0.077806,875,Diğer,0.289593,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15810660,Test,0.07774,876,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15710012,Test,0.077623,877,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15615670,Test,0.077545,878,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15661007,Test,0.077456,879,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15648461,Test,0.077408,880,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15812351,Test,0.077227,881,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15589437,Test,0.076906,882,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15643361,Test,0.076904,883,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15617934,Test,0.076871,884,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15698749,Test,0.076567,885,Diğer,0.253807,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15690153,Test,0.076561,886,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15762793,Test,0.076553,887,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15607786,Test,0.076504,888,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15675320,Test,0.076195,889,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15731267,Test,0.076137,890,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15682541,Test,0.076108,891,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15607040,Test,0.076052,892,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15750056,Test,0.075885,893,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15777614,Test,0.075802,894,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15570990,Test,0.075589,895,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15719624,Test,0.075561,896,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15615032,Test,0.075544,897,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15588219,Test,0.075521,898,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15798824,Test,0.07539,899,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15735439,Test,0.075255,900,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15654870,Test,0.07518,901,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15631848,Test,0.075122,902,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15596405,Test,0.075118,903,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15637366,Test,0.075108,904,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15675585,Test,0.075038,905,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15715199,Test,0.074884,906,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15787772,Test,0.074848,907,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15609545,Test,0.074771,908,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15626044,Test,0.074714,909,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15777855,Test,0.074673,910,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15615140,Test,0.074566,911,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15586914,Test,0.074501,912,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15642336,Test,0.074419,913,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15573112,Test,0.074415,914,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15622454,Test,0.074395,915,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15664523,Test,0.074275,916,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15690678,Test,0.074235,917,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15795878,Test,0.074215,918,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15725039,Test,0.074154,919,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15631756,Test,0.074141,920,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15741092,Test,0.074091,921,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15637979,Test,0.074084,922,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15600708,Test,0.074082,923,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15801293,Test,0.074063,924,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15692744,Test,0.073982,925,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15658360,Test,0.073969,926,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15661532,Test,0.073856,927,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15759991,Test,0.073815,928,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15680685,Test,0.07377,929,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15663312,Test,0.073636,930,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15577064,Test,0.07362,931,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15711521,Test,0.073536,932,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15769402,Test,0.073384,933,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15741417,Test,0.073251,934,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15636521,Test,0.073245,935,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15574305,Test,0.073218,936,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15748360,Test,0.073106,937,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15777893,Test,0.072797,938,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15813681,Test,0.072622,939,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15811589,Test,0.072559,940,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15574142,Test,0.072458,941,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15715888,Test,0.072425,942,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15567991,Test,0.072424,943,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15771580,Test,0.072285,944,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15633108,Test,0.072269,945,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15723320,Test,0.072199,946,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15795933,Test,0.072164,947,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15684722,Test,0.072051,948,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15784099,Test,0.072023,949,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15785920,Test,0.071992,950,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15790683,Test,0.071958,951,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15750602,Test,0.071856,952,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15621653,Test,0.071714,953,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15738448,Test,0.071688,954,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15624866,Test,0.07156,955,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15728829,Test,0.071443,956,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15723481,Test,0.071413,957,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15641009,Test,0.071402,958,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15576077,Test,0.071178,959,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15713378,Test,0.071141,960,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15645815,Test,0.071126,961,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15599660,Test,0.070973,962,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15755209,Test,0.070896,963,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15596811,Test,0.070858,964,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15687828,Test,0.070857,965,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15657317,Test,0.070749,966,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15654074,Test,0.070702,967,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15602909,Test,0.070634,968,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15736990,Test,0.070618,969,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15758031,Test,0.070558,970,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15569503,Test,0.070491,971,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15571476,Test,0.07049,972,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15768120,Test,0.070472,973,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15616525,Test,0.070404,974,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15756743,Test,0.070382,975,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15748327,Test,0.070375,976,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15765952,Test,0.070308,977,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15585241,Test,0.069966,978,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15748718,Test,0.069866,979,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15695129,Test,0.069735,980,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15701333,Test,0.06972,981,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15658475,Test,0.069701,982,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15726354,Test,0.069673,983,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15779207,Test,0.069638,984,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15574122,Test,0.069612,985,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15641575,Test,0.069599,986,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15724719,Test,0.069566,987,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15684198,Test,0.069534,988,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15706602,Test,0.069519,989,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15649112,Test,0.06938,990,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15599272,Test,0.069344,991,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15654106,Test,0.069344,992,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15802758,Test,0.06932,993,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15605791,Test,0.069028,994,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15576517,Test,0.068972,995,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15677317,Test,0.068657,996,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15578006,Test,0.068637,997,Diğer,0.082707,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15572461,Test,0.068629,998,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15735221,Test,0.068595,999,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15685500,Test,0.068549,1000,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15661656,Test,0.068547,1001,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15782875,Test,0.068538,1002,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15582492,Test,0.068525,1003,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15766064,Test,0.068465,1004,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15780846,Test,0.068441,1005,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15757541,Test,0.068387,1006,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15768359,Test,0.068307,1007,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15678910,Test,0.068168,1008,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15640917,Test,0.068064,1009,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15808182,Test,0.06806,1010,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15692132,Test,0.068009,1011,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15612193,Test,0.067997,1012,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15613337,Test,0.067862,1013,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15795571,Test,0.067839,1014,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15711352,Test,0.067798,1015,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15625445,Test,0.067749,1016,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15742534,Test,0.067677,1017,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15664734,Test,0.067641,1018,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15591344,Test,0.067557,1019,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15734161,Test,0.067533,1020,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15592389,Test,0.067469,1021,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15579207,Test,0.06739,1022,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15674868,Test,0.067258,1023,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15796231,Test,0.067156,1024,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15715796,Test,0.06709,1025,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15755225,Test,0.067069,1026,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15688563,Test,0.067067,1027,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15791030,Test,0.067048,1028,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15699619,Test,0.067002,1029,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15672145,Test,0.06692,1030,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15605455,Test,0.066899,1031,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15589805,Test,0.066618,1032,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15797905,Test,0.066608,1033,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15637947,Test,0.066546,1034,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15792565,Test,0.066533,1035,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15693704,Test,0.066416,1036,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15677783,Test,0.066411,1037,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15584776,Test,0.066365,1038,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15616700,Test,0.066269,1039,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15813590,Test,0.066118,1040,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15635939,Test,0.066104,1041,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15591509,Test,0.066062,1042,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15582960,Test,0.066042,1043,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15811127,Test,0.06603,1044,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15639322,Test,0.066008,1045,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15633274,Test,0.065921,1046,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15652289,Test,0.065846,1047,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15666252,Test,0.065839,1048,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15603096,Test,0.0658,1049,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15611580,Test,0.065793,1050,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15699634,Test,0.065725,1051,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15572174,Test,0.065635,1052,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15602030,Test,0.065627,1053,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15626742,Test,0.065591,1054,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15579189,Test,0.06559,1055,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15748352,Test,0.065527,1056,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15697127,Test,0.065504,1057,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15696371,Test,0.065428,1058,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15616168,Test,0.065397,1059,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15720083,Test,0.065382,1060,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15792180,Test,0.065334,1061,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15648030,Test,0.065309,1062,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15811486,Test,0.065273,1063,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15735549,Test,0.065261,1064,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15732774,Test,0.06506,1065,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15599211,Test,0.065007,1066,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15583736,Test,0.064998,1067,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15783522,Test,0.06499,1068,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15718780,Test,0.064988,1069,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15762937,Test,0.064964,1070,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15626141,Test,0.064916,1071,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15572956,Test,0.064907,1072,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15709741,Test,0.064755,1073,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15778915,Test,0.064644,1074,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15596914,Test,0.064625,1075,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15722004,Test,0.064619,1076,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15696047,Test,0.064582,1077,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15605666,Test,0.06437,1078,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15687218,Test,0.064309,1079,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15786739,Test,0.064228,1080,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15724127,Test,0.064212,1081,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15812832,Test,0.064166,1082,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15775153,Test,0.06416,1083,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15744041,Test,0.064134,1084,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15575002,Test,0.064132,1085,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15569572,Test,0.064106,1086,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15654292,Test,0.06408,1087,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15773456,Test,0.063991,1088,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15601172,Test,0.063935,1089,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15631709,Test,0.063841,1090,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15654531,Test,0.063753,1091,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15809906,Test,0.063741,1092,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15720110,Test,0.063704,1093,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15691647,Test,0.063528,1094,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15722758,Test,0.063526,1095,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15696812,Test,0.063493,1096,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15572093,Test,0.063478,1097,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15652789,Test,0.063394,1098,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15743760,Test,0.063237,1099,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15792077,Test,0.063203,1100,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15682523,Test,0.063123,1101,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15639882,Test,0.063118,1102,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15576304,Test,0.063053,1103,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15810454,Test,0.063048,1104,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15805463,Test,0.063045,1105,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15749328,Test,0.062925,1106,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15602979,Test,0.062921,1107,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15585595,Test,0.062872,1108,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15576760,Test,0.062869,1109,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15657085,Test,0.062785,1110,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15683930,Test,0.062735,1111,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15685872,Test,0.062659,1112,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15566790,Test,0.062637,1113,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15588587,Test,0.062623,1114,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15786035,Test,0.062593,1115,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15667971,Test,0.062541,1116,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15790247,Test,0.062529,1117,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15625905,Test,0.062449,1118,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15643752,Test,0.062405,1119,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15795963,Test,0.062403,1120,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15610781,Test,0.062288,1121,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15738411,Test,0.062252,1122,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15660535,Test,0.062223,1123,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15709523,Test,0.062213,1124,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15639049,Test,0.0621,1125,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15720463,Test,0.062099,1126,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15586757,Test,0.062085,1127,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15577985,Test,0.062078,1128,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15809509,Test,0.061889,1129,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15747558,Test,0.061859,1130,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15574858,Test,0.061854,1131,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15685320,Test,0.061849,1132,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15589358,Test,0.061833,1133,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15753549,Test,0.06176,1134,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15793842,Test,0.061758,1135,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15801277,Test,0.061695,1136,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15632850,Test,0.061688,1137,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15734714,Test,0.061685,1138,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15605339,Test,0.061681,1139,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15664214,Test,0.061616,1140,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15734886,Test,0.06161,1141,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15724648,Test,0.061536,1142,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15692235,Test,0.061511,1143,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15695475,Test,0.061481,1144,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15659420,Test,0.06148,1145,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15609299,Test,0.061335,1146,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15736299,Test,0.061334,1147,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15762198,Test,0.061297,1148,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15774104,Test,0.061204,1149,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15676156,Test,0.061199,1150,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15625126,Test,0.061188,1151,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15788659,Test,0.06116,1152,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15584477,Test,0.061147,1153,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15617304,Test,0.061119,1154,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15802351,Test,0.061117,1155,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15787026,Test,0.061076,1156,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15801863,Test,0.061021,1157,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15642725,Test,0.060974,1158,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15803801,Test,0.060858,1159,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15672983,Test,0.060812,1160,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15657778,Test,0.060794,1161,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15699047,Test,0.060733,1162,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15595350,Test,0.060647,1163,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15809838,Test,0.060645,1164,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15587443,Test,0.060624,1165,Diğer,0.173554,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15665110,Test,0.060617,1166,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15738220,Test,0.060586,1167,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15665180,Test,0.060501,1168,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15607560,Test,0.060499,1169,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15683521,Test,0.060422,1170,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15706463,Test,0.060387,1171,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15755825,Test,0.060244,1172,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15659656,Test,0.060223,1173,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15809585,Test,0.060218,1174,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15671387,Test,0.060138,1175,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15567246,Test,0.060114,1176,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15806332,Test,0.060114,1177,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15761525,Test,0.06011,1178,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15796114,Test,0.060064,1179,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15670866,Test,0.060053,1180,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15639368,Test,0.05995,1181,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15595067,Test,0.059941,1182,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15715715,Test,0.059913,1183,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15575119,Test,0.059851,1184,Diğer,0.082707,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15781777,Test,0.059804,1185,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15730469,Test,0.059779,1186,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15710408,Test,0.059762,1187,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15767921,Test,0.059727,1188,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15641122,Test,0.059675,1189,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15640377,Test,0.059669,1190,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15600781,Test,0.05961,1191,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15734005,Test,0.059504,1192,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15753591,Test,0.059498,1193,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15789432,Test,0.059465,1194,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15626898,Test,0.059399,1195,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15801351,Test,0.05932,1196,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15566380,Test,0.059302,1197,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15814033,Test,0.059251,1198,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15748595,Test,0.059244,1199,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15590337,Test,0.059226,1200,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15728605,Test,0.059218,1201,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15719579,Test,0.059204,1202,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15617657,Test,0.059163,1203,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15612139,Test,0.059126,1204,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15762110,Test,0.059009,1205,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15763218,Test,0.059008,1206,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15675422,Test,0.058846,1207,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15633181,Test,0.058827,1208,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15682686,Test,0.058776,1209,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15715707,Test,0.058761,1210,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15605284,Test,0.058684,1211,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15577988,Test,0.0586,1212,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15768219,Test,0.058332,1213,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15805627,Test,0.058185,1214,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15631813,Test,0.058125,1215,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15589257,Test,0.058108,1216,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15636478,Test,0.058091,1217,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15668009,Test,0.058023,1218,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15761348,Test,0.057976,1219,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15783882,Test,0.057943,1220,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15694518,Test,0.057841,1221,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15734626,Test,0.057833,1222,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15781505,Test,0.057825,1223,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15747014,Test,0.057808,1224,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15668679,Test,0.057723,1225,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15775108,Test,0.057723,1226,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15690664,Test,0.057675,1227,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15813532,Test,0.057635,1228,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15675675,Test,0.057603,1229,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15598892,Test,0.057591,1230,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15752534,Test,0.057561,1231,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15695474,Test,0.057554,1232,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15701946,Test,0.05749,1233,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15752601,Test,0.057481,1234,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15723013,Test,0.057455,1235,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15671172,Test,0.05737,1236,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15645269,Test,0.057306,1237,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15595917,Test,0.057305,1238,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15576602,Test,0.057176,1239,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15615931,Test,0.057131,1240,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15601627,Test,0.056966,1241,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15747762,Test,0.056941,1242,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15633854,Test,0.056934,1243,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15587913,Test,0.056877,1244,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15630413,Test,0.056827,1245,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15645517,Test,0.056799,1246,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15766172,Test,0.056743,1247,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15646082,Test,0.056711,1248,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15760825,Test,0.05671,1249,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15667216,Test,0.056669,1250,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15647295,Test,0.056627,1251,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15720508,Test,0.056599,1252,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15629787,Test,0.056575,1253,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15686670,Test,0.05654,1254,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15656484,Test,0.056378,1255,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15644212,Test,0.056324,1256,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15679200,Test,0.056253,1257,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15790958,Test,0.056211,1258,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15668958,Test,0.056202,1259,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15723884,Test,0.056171,1260,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15710375,Test,0.056171,1261,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15593959,Test,0.056097,1262,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15606849,Test,0.056058,1263,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15716186,Test,0.056033,1264,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15678626,Test,0.056031,1265,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15720676,Test,0.055904,1266,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15774510,Test,0.055899,1267,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15706021,Test,0.055852,1268,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15574886,Test,0.055819,1269,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15790412,Test,0.055815,1270,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15695225,Test,0.055783,1271,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15627741,Test,0.055742,1272,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15617790,Test,0.055726,1273,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15714057,Test,0.055694,1274,Diğer,0.094477,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15572398,Test,0.055671,1275,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15603743,Test,0.055657,1276,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15754929,Test,0.055629,1277,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15672016,Test,0.055497,1278,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15711316,Test,0.055474,1279,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15740264,Test,0.055376,1280,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15697034,Test,0.055365,1281,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15752588,Test,0.055343,1282,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15607713,Test,0.055177,1283,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15748995,Test,0.055162,1284,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15612627,Test,0.055106,1285,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15615004,Test,0.05509,1286,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15615352,Test,0.055017,1287,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15770539,Test,0.055003,1288,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15758510,Test,0.054951,1289,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15768295,Test,0.05491,1290,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15733842,Test,0.054858,1291,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15658670,Test,0.054844,1292,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15759290,Test,0.054812,1293,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15642004,Test,0.054725,1294,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15716023,Test,0.054717,1295,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15744622,Test,0.054712,1296,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15750929,Test,0.054552,1297,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15771856,Test,0.054513,1298,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15648032,Test,0.054485,1299,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15679743,Test,0.054415,1300,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15765266,Test,0.054393,1301,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15724691,Test,0.054297,1302,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15707114,Test,0.054253,1303,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15718588,Test,0.054205,1304,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15706764,Test,0.054168,1305,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15608230,Test,0.05396,1306,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15774872,Test,0.053949,1307,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15782231,Test,0.053943,1308,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15723028,Test,0.053813,1309,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15640865,Test,0.053736,1310,Diğer,0.056985,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15809872,Test,0.053722,1311,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15704629,Test,0.053688,1312,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15585280,Test,0.05368,1313,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15645184,Test,0.053673,1314,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15725002,Test,0.053621,1315,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15652948,Test,0.053534,1316,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15680046,Test,0.05352,1317,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15680855,Test,0.053454,1318,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15619116,Test,0.053319,1319,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15809901,Test,0.053291,1320,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15666181,Test,0.053212,1321,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15667215,Test,0.053088,1322,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15752838,Test,0.05308,1323,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15600688,Test,0.053072,1324,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15696539,Test,0.052814,1325,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15618182,Test,0.05281,1326,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15644796,Test,0.05278,1327,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15714493,Test,0.052643,1328,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15794792,Test,0.05228,1329,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15721507,Test,0.052247,1330,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15699430,Test,0.052214,1331,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15682757,Test,0.052174,1332,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15672357,Test,0.052154,1333,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15786539,Test,0.052068,1334,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15570855,Test,0.051947,1335,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15719294,Test,0.051906,1336,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15599829,Test,0.051882,1337,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15733119,Test,0.051873,1338,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15756071,Test,0.051864,1339,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15681991,Test,0.051784,1340,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15782121,Test,0.051745,1341,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15767594,Test,0.05172,1342,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15581968,Test,0.051642,1343,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15736413,Test,0.051546,1344,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15803716,Test,0.051541,1345,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15690670,Test,0.051534,1346,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15708693,Test,0.051516,1347,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15731148,Test,0.051504,1348,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15617476,Test,0.051425,1349,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15802390,Test,0.051365,1350,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15786249,Test,0.051323,1351,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15757646,Test,0.051228,1352,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15619465,Test,0.051217,1353,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15707132,Test,0.051212,1354,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15664737,Test,0.051211,1355,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15753895,Test,0.051198,1356,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15592451,Test,0.051045,1357,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15631162,Test,0.051014,1358,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15720123,Test,0.051007,1359,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15628308,Test,0.050995,1360,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15778089,Test,0.050859,1361,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15767598,Test,0.050857,1362,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15749540,Test,0.050827,1363,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15800620,Test,0.050354,1364,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15688644,Test,0.050281,1365,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15758639,Test,0.050273,1366,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15610042,Test,0.050203,1367,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15591150,Test,0.050194,1368,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15725767,Test,0.05007,1369,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15804822,Test,0.050035,1370,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15627697,Test,0.049996,1371,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15702337,Test,0.049985,1372,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15585867,Test,0.04998,1373,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15594915,Test,0.049914,1374,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15798666,Test,0.049909,1375,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15566594,Test,0.04989,1376,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15610753,Test,0.04985,1377,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15789548,Test,0.049729,1378,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15810826,Test,0.049672,1379,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15710456,Test,0.049652,1380,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15702715,Test,0.049649,1381,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15729836,Test,0.049624,1382,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15773017,Test,0.049606,1383,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15742369,Test,0.049558,1384,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15608387,Test,0.049422,1385,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15744398,Test,0.049395,1386,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15797665,Test,0.049353,1387,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15774536,Test,0.049325,1388,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15605276,Test,0.049311,1389,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15678571,Test,0.049299,1390,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15696826,Test,0.049287,1391,Diğer,0.107768,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15628007,Test,0.049247,1392,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15711386,Test,0.049215,1393,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15752467,Test,0.049175,1394,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15684934,Test,0.04916,1395,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15803681,Test,0.049151,1396,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15684103,Test,0.049124,1397,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15764293,Test,0.049066,1398,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15716518,Test,0.049047,1399,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15794875,Test,0.049041,1400,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15748068,Test,0.049022,1401,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15755138,Test,0.048924,1402,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15692583,Test,0.048917,1403,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15667554,Test,0.048916,1404,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15661219,Test,0.048898,1405,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15661830,Test,0.048889,1406,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15695103,Test,0.048801,1407,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15765048,Test,0.048793,1408,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15768474,Test,0.048791,1409,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15677739,Test,0.048757,1410,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15714877,Test,0.048717,1411,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15600882,Test,0.048704,1412,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15575486,Test,0.048655,1413,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15630106,Test,0.048637,1414,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15723400,Test,0.048598,1415,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15571144,Test,0.04856,1416,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15766787,Test,0.048492,1417,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15681509,Test,0.048462,1418,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15679991,Test,0.048447,1419,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15734628,Test,0.048447,1420,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15600992,Test,0.048443,1421,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15653620,Test,0.048427,1422,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15567013,Test,0.048414,1423,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15585041,Test,0.048306,1424,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15579548,Test,0.048266,1425,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15634373,Test,0.048243,1426,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15810944,Test,0.048213,1427,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15734311,Test,0.048194,1428,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15724834,Test,0.048163,1429,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15794014,Test,0.048136,1430,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15739042,Test,0.048113,1431,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15692317,Test,0.048096,1432,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15732963,Test,0.048095,1433,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15593250,Test,0.048077,1434,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15726167,Test,0.048032,1435,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15794472,Test,0.048018,1436,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15615016,Test,0.047909,1437,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15716800,Test,0.047905,1438,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15785869,Test,0.047901,1439,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15793247,Test,0.0479,1440,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15590476,Test,0.04779,1441,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15743075,Test,0.04777,1442,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15580068,Test,0.047745,1443,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15775627,Test,0.047744,1444,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15767894,Test,0.047741,1445,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15737080,Test,0.047682,1446,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15595388,Test,0.047673,1447,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15632345,Test,0.047667,1448,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15786167,Test,0.047665,1449,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15714567,Test,0.047658,1450,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15710397,Test,0.047523,1451,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15637644,Test,0.047521,1452,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15797227,Test,0.04742,1453,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15724663,Test,0.047372,1454,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15611287,Test,0.047347,1455,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15631451,Test,0.047333,1456,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15752956,Test,0.047323,1457,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15759872,Test,0.047299,1458,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15656188,Test,0.047287,1459,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15803840,Test,0.047281,1460,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15583033,Test,0.047274,1461,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15608726,Test,0.047136,1462,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15725166,Test,0.04712,1463,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15615575,Test,0.047085,1464,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15589323,Test,0.047078,1465,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15635531,Test,0.047062,1466,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15583090,Test,0.047049,1467,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15782236,Test,0.047016,1468,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15758372,Test,0.047015,1469,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15592570,Test,0.046991,1470,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15777033,Test,0.04699,1471,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15752186,Test,0.04699,1472,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15585599,Test,0.046932,1473,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15612594,Test,0.046924,1474,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15709412,Test,0.046887,1475,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15697283,Test,0.046866,1476,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15596624,Test,0.046849,1477,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15663386,Test,0.046821,1478,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15712584,Test,0.046722,1479,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15689661,Test,0.046716,1480,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15568238,Test,0.046695,1481,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15619238,Test,0.046683,1482,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15732265,Test,0.046681,1483,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15776211,Test,0.046675,1484,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15782311,Test,0.046674,1485,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15720529,Test,0.046638,1486,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15748432,Test,0.046622,1487,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15568104,Test,0.046547,1488,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15741921,Test,0.046517,1489,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15673907,Test,0.046485,1490,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15697567,Test,0.046347,1491,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15702464,Test,0.046267,1492,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15797113,Test,0.046239,1493,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15646168,Test,0.046239,1494,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15775562,Test,0.046127,1495,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15775880,Test,0.045944,1496,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15754926,Test,0.045909,1497,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15814940,Test,0.045896,1498,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15713094,Test,0.045756,1499,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15675431,Test,0.045681,1500,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10
+15649129,Test,0.045522,1501,Diğer,0.034619,RF aktifliksiz Sigmoid · 8.499 müşteride eğitildi · 2026-10

@@ -1,0 +1,82 @@
+// Sayfa 3 (Kapasite Senaryosu) ölçüleri — Power BI Desktop'ta DAX sorgu görünümüne yapıştırılır;
+// her MEASURE satırının üstündeki "Modeli güncelleştir: Yeni ölçü ekle" bağlantısıyla (ya da toplu) modele eklenir.
+// Kaynak: 'Test Skorları' (= dbo.vw_TestScores_PowerBI, SQL 29; yalnızca son test setindeki 1.501 müşteri).
+// Kapasite: yakalama eğrisinde eksen değeri ('Kapasite Ekseni'), kartlarda kaydırıcı değeri kullanılır.
+// Segment kuralı çok sayıda eşit skor üretir; kesim noktası eşit skorlu bir grubun ortasına düşerse grup içinden
+// rastgele seçim varsayılır (beklenen değer) — notebook'taki ml.yakalanan_pay ile aynı kural.
+// 27 Ekim düzeltmesi: kapasite en fazla yüzde payıdır, adet aşağı yuvarlanır.
+// Somut model listesi: skor azalan, eşitlikte CustomerId artan. Matris bu listeyi kullanır.
+// Eğri ve yöntem tablosu: her iki yöntemde de eşit skorlarda beklenen yakalama.
+DEFINE
+    MEASURE 'Test Skorları'[Test Müşteri] = COUNTROWS ( 'Test Skorları' )
+    MEASURE 'Test Skorları'[Test Ayrılan] = SUM ( 'Test Skorları'[Exited] )
+    MEASURE 'Test Skorları'[Seçili Kapasite] =
+        COALESCE ( SELECTEDVALUE ( 'Kapasite Ekseni'[Kapasite] ), [Kapasite Değeri] )
+    MEASURE 'Test Skorları'[Bakılan Müşteri] =
+        VAR p = [Seçili Kapasite]
+        VAR n = COALESCE ( [Test Müşteri], 0 )
+        RETURN
+            IF ( ISBLANK ( p ) || p < 0 || p > 100, BLANK (), INT ( DIVIDE ( p * n, 100 ) ) )
+    MEASURE 'Test Skorları'[Model Yakalanan] =
+        VAR n = [Bakılan Müşteri]
+        RETURN
+            IF ( ISBLANK ( n ), BLANK (), IF ( n = 0, 0,
+                SUMX ( TOPN ( n, 'Test Skorları', 'Test Skorları'[ModelScore], DESC,
+                    'Test Skorları'[CustomerId], ASC ), 'Test Skorları'[Exited] ) ) )
+    MEASURE 'Test Skorları'[Model Eşit Skorlarda Beklenen Yakalanan] =
+        VAR n = [Bakılan Müşteri]
+        VAR esik = MINX ( TOPN ( n, 'Test Skorları', 'Test Skorları'[ModelScore], DESC ), 'Test Skorları'[ModelScore] )
+        VAR ust = FILTER ( 'Test Skorları', 'Test Skorları'[ModelScore] > esik )
+        VAR esit = FILTER ( 'Test Skorları', 'Test Skorları'[ModelScore] = esik )
+        RETURN
+            IF ( ISBLANK ( n ), BLANK (), IF ( n = 0, 0,
+                SUMX ( ust, 'Test Skorları'[Exited] )
+                    + DIVIDE ( n - COUNTROWS ( ust ), COUNTROWS ( esit ) ) * SUMX ( esit, 'Test Skorları'[Exited] ) ) )
+    MEASURE 'Test Skorları'[Kural Yakalanan] =
+        VAR n = [Bakılan Müşteri]
+        VAR esik = MINX ( TOPN ( n, 'Test Skorları', 'Test Skorları'[SegmentRuleScore], DESC ), 'Test Skorları'[SegmentRuleScore] )
+        VAR ust = FILTER ( 'Test Skorları', 'Test Skorları'[SegmentRuleScore] > esik )
+        VAR esit = FILTER ( 'Test Skorları', 'Test Skorları'[SegmentRuleScore] = esik )
+        RETURN
+            IF ( ISBLANK ( n ), BLANK (), IF ( n = 0, 0,
+                SUMX ( ust, 'Test Skorları'[Exited] )
+                    + DIVIDE ( n - COUNTROWS ( ust ), COUNTROWS ( esit ) ) * SUMX ( esit, 'Test Skorları'[Exited] ) ) )
+    MEASURE 'Test Skorları'[Kural Somut Liste Yakalanan] =
+        VAR n = [Bakılan Müşteri]
+        RETURN
+            IF ( ISBLANK ( n ), BLANK (), IF ( n = 0, 0,
+                SUMX ( TOPN ( n, 'Test Skorları', 'Test Skorları'[SegmentRuleScore], DESC,
+                    'Test Skorları'[CustomerId], ASC ), 'Test Skorları'[Exited] ) ) )
+    MEASURE 'Test Skorları'[Rastgele Yakalanan] =
+        [Test Ayrılan] * DIVIDE ( [Bakılan Müşteri], [Test Müşteri] )
+    MEASURE 'Test Skorları'[Model Yakalanan Payı] = DIVIDE ( [Model Eşit Skorlarda Beklenen Yakalanan], [Test Ayrılan] )
+    MEASURE 'Test Skorları'[Kural Yakalanan Payı] = DIVIDE ( [Kural Yakalanan], [Test Ayrılan] )
+    MEASURE 'Test Skorları'[Rastgele Yakalanan Payı] = DIVIDE ( [Rastgele Yakalanan], [Test Ayrılan] )
+    MEASURE 'Test Skorları'[Model İsabet] = DIVIDE ( [Model Yakalanan], [Bakılan Müşteri] )
+    MEASURE 'Test Skorları'[Beklenen Ayrılan] =
+        VAR n = [Bakılan Müşteri]
+        RETURN
+            IF ( ISBLANK ( n ), BLANK (), IF ( n = 0, 0,
+                SUMX ( TOPN ( n, 'Test Skorları', 'Test Skorları'[ModelScore], DESC,
+                    'Test Skorları'[CustomerId], ASC ), 'Test Skorları'[ModelScore] ) ) )
+    MEASURE 'Test Skorları'[Yakalanan Ayrılan] =
+        SWITCH ( SELECTEDVALUE ( 'Yöntem'[Yöntem] ),
+            "Model", [Model Eşit Skorlarda Beklenen Yakalanan],
+            "Segment kuralı", [Kural Yakalanan],
+            "Rastgele seçim", [Rastgele Yakalanan] )
+    MEASURE 'Test Skorları'[Tutulan Müşteri] = [Yakalanan Ayrılan] * [Başarı Oranı Değeri] / 100
+    MEASURE 'Test Skorları'[Kampanya Maliyeti] =
+        IF ( NOT ISBLANK ( [Yakalanan Ayrılan] ), [Bakılan Müşteri] * [Teklif Maliyeti Değeri] )
+    MEASURE 'Test Skorları'[Kazanç] = [Tutulan Müşteri] * [Müşteri Değeri Değeri]
+    MEASURE 'Test Skorları'[Net Fayda] = [Kazanç] - [Kampanya Maliyeti]
+    MEASURE 'Test Skorları'[Başabaş Başarı Oranı] =
+        DIVIDE ( [Kampanya Maliyeti], [Yakalanan Ayrılan] * [Müşteri Değeri Değeri] )
+
+EVALUATE
+    ROW (
+        "Kapasite", [Seçili Kapasite], "Bakılan", [Bakılan Müşteri],
+        "Model somut", [Model Yakalanan], "Model eşitlik beklentisi", [Model Eşit Skorlarda Beklenen Yakalanan],
+        "Kural eşitlik beklentisi", [Kural Yakalanan], "Kural somut", [Kural Somut Liste Yakalanan],
+        "Rastgele", [Rastgele Yakalanan],
+        "İsabet", [Model İsabet], "Beklenen", [Beklenen Ayrılan]
+    )

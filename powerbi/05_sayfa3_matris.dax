@@ -1,0 +1,68 @@
+// Sayfa 3 — dinamik karışıklık matrisi (model listesi, seçili kapasitede).
+// Amaç: AP'nin özetlediği performansı tek karar noktasında iş diliyle göstermek: "Listeye aldığımız müşterilerin kaçı
+// tarihsel etikette ayrıldı, kaçı ayrılmadı, kaç ayrılan liste dışında?" Eşik 0,5 değil, kapasitedir (kaydırıcı).
+// Gerçek arama/teklif kaydı yoktur. Matris müşteri kimliğiyle sabitlenen somut listeyi kullanır.
+// Yalnızca raporlama: matris model, eşik veya kapasite seçiminde kullanılmaz. Kaynak: 'Test Skorları' (1.501 son test müşterisi).
+// Doğrulama (Python, data/processed/ml_test_skorlari.csv + Exited):
+//   %10 → 119 / 31 / 187 / 1.164   %20 → 187 / 113 / 119 / 1.082   %30 → 226 / 224 / 80 / 971
+//   (listedeki ayrılan / listedeki ayrılmayan / dışarıdaki ayrılan / dışarıdaki ayrılmayan)
+
+// ---- 1. Eksen tabloları: Modelleme → Yeni tablo (her biri ayrı ayrı). İlişki kurulmaz (bağımsız eksen).
+// Sonra her tabloda etiket sütunu → Sütun araçları → Sütuna göre sırala → Sıra; Sıra sütunu gizlenir.
+//
+// Matris Liste =
+//     DATATABLE ( "Liste", STRING, "Sıra", INTEGER,
+//         { { "Listeye alındı", 1 }, { "Listeye alınmadı", 2 } } )
+//
+// Matris Gerçek =
+//     DATATABLE ( "Gerçek", STRING, "Sıra", INTEGER,
+//         { { "Ayrıldı", 1 }, { "Kaldı", 2 } } )
+
+// ---- 2. Ölçüler: DAX sorgu görünümüne yapıştırılır, "Modeli güncelleştir" ile 'Test Skorları' tablosuna eklenir.
+DEFINE
+    MEASURE 'Test Skorları'[Matris Değeri] =
+        VAR liste = SELECTEDVALUE ( 'Matris Liste'[Liste] )
+        VAR gercek = SELECTEDVALUE ( 'Matris Gerçek'[Gerçek] )
+        VAR dogruAlarm = [Model Yakalanan]
+        VAR bosuna = [Bakılan Müşteri] - dogruAlarm
+        VAR kacan = [Test Ayrılan] - dogruAlarm
+        VAR dogruRed = [Test Müşteri] - [Bakılan Müşteri] - kacan
+        RETURN
+            SWITCH ( TRUE (),
+                liste = "Listeye alındı" && gercek = "Ayrıldı", dogruAlarm,
+                liste = "Listeye alındı" && gercek = "Kaldı", bosuna,
+                liste = "Listeye alınmadı" && gercek = "Ayrıldı", kacan,
+                liste = "Listeye alınmadı" && gercek = "Kaldı", dogruRed,
+                // Toplam satırı ve sütunu
+                liste = "Listeye alındı", [Bakılan Müşteri],
+                liste = "Listeye alınmadı", [Test Müşteri] - [Bakılan Müşteri],
+                gercek = "Ayrıldı", [Test Ayrılan],
+                gercek = "Kaldı", [Test Müşteri] - [Test Ayrılan],
+                [Test Müşteri] )
+    MEASURE 'Test Skorları'[Matris Rengi] =
+        VAR liste = SELECTEDVALUE ( 'Matris Liste'[Liste] )
+        VAR gercek = SELECTEDVALUE ( 'Matris Gerçek'[Gerçek] )
+        RETURN
+            SWITCH ( TRUE (),
+                ISBLANK ( liste ) || ISBLANK ( gercek ), BLANK (),
+                liste = "Listeye alındı" && gercek = "Ayrıldı", "#D6E8EF",
+                liste = "Listeye alınmadı" && gercek = "Kaldı", "#ECEDEF",
+                "#F3DDD3" )
+    MEASURE 'Test Skorları'[Matris Özeti] =
+        VAR dogruAlarm = [Model Yakalanan]
+        VAR bosuna = [Bakılan Müşteri] - dogruAlarm
+        VAR kacan = [Test Ayrılan] - dogruAlarm
+        RETURN
+            "Listedeki " & FORMAT ( [Bakılan Müşteri], "#,0" ) & " müşteriden " & FORMAT ( dogruAlarm, "#,0" )
+                & " kişi tarihsel etikette ayrıldı (isabet %" & FORMAT ( [Model İsabet] * 100, "0" ) & "). "
+                & FORMAT ( kacan, "#,0" ) & " ayrılan müşteri liste dışında; "
+                & FORMAT ( bosuna, "#,0" ) & " listedeki müşteri ayrılmadı."
+
+EVALUATE
+    ROW (
+        "Kapasite", [Seçili Kapasite],
+        "Doğru alarm", [Model Yakalanan],
+        "Listedeki ayrılmayan", [Bakılan Müşteri] - [Model Yakalanan],
+        "Kaçırıldı", [Test Ayrılan] - [Model Yakalanan],
+        "Özet", [Matris Özeti]
+    )

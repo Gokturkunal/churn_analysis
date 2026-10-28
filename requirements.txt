@@ -1,0 +1,14 @@
+# Veri okuma, dağılım görselleri, istatistik ve VS Code notebook ortamı.
+pandas>=2.2,<4
+numpy==2.2.6
+matplotlib>=3.9,<4
+seaborn>=0.13,<1
+scipy>=1.13,<2
+ipykernel>=6,<8
+nbformat>=5,<6
+nbclient>=0.10,<1
+# Bölüm 4d model kontrolü ve ML: model, pipeline ve SMOTENC (2026-10-19).
+scikit-learn>=1.6,<2
+imbalanced-learn>=0.13,<1
+# Gradient boosting için Bayesçi hiperparametre araması (Optuna TPE, 2026-10-23).
+optuna>=5,<6
