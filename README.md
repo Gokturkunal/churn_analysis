@@ -101,3 +101,7 @@ Aşağıdaki görüntüler panelin sayfalarıdır ve varsayılan kaydırıcı de
 ## Araçlar
 
 SQL Server · Python (pandas, scikit-learn, imbalanced-learn, Optuna, matplotlib) · Power BI
+
+## Lisans
+
+Kod, SQL sorguları, notebook'lar, Power BI dosyası ve rapor [MIT Lisansı](LICENSE) ile paylaşılmıştır. `Churn_Modelling.csv` bana ait değildir; Kaggle'daki kaynağının koşullarına tabidir ve bu lisansın kapsamında değildir.
